@@ -11,7 +11,7 @@ http.createServer((req, res) => {
             <title>Beispielseite</title>
         </head>
         <body>
-            <h1>Hello World</h1>
+            <center><h1>Hello World</h1></center>
         </body>
         </html>
     `);
